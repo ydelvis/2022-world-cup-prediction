@@ -1,0 +1,53 @@
+Team,Group,"Previous 
+appearances","Previous 
+titles","Previous
+ finals","Previous
+ semifinals","Current 
+FIFA rank","First match 
+against",Match index,"history with 
+first opponent
+ W-L","history with
+ first opponent
+ goals","Second match
+ against",Match index,"history with
+ second opponent
+ W-L","history with
+ second opponent
+ goals","Third match
+ against",Match index,"history with
+ third opponent
+ W-L","history with
+ third opponent
+ goals"
+Qatar,A,0,0,0,0,51,Ecuador,1,N/A,N/A,Senegal,17,N/A,N/A,Netherlands,33,N/A,N/A
+Ecuador,A,3,0,0,0,46,Qatar,1,0,N/A,Netherlands,17,1,1,Senegl,33,N/A,N/A
+Netherlands,A,10,0,3,4,10,Senegal,2,1,2,Ecuador,18,-2,-10,Qatar,34,2,3
+Senegal,A,2,0,0,0,20,Netherlands,2,N/A,N/A,Qatar,18,2,3,Ecuador,34,0,0
+USA,B,10,0,0,1,15,China PR,3,-1,-2,England,19,N/A,N/A,Iran,35,5,5
+Iran,B,5,0,0,0,21,England,3,2,2,China PR,19,N/A,N/A,USA,35,-2,-5
+China PR,B,1,0,0,0,77,USA,4,N/A,N/A,Iran,20,-8,-19,England,36,0,-1
+England,B,15,1,1,2,5,Iran,4,1,2,USA,20,N/A,N/A,China PR,36,17,70
+Saudi Arabia,C,5,0,0,0,49,Argentina,5,1,2,Poland,21,1,1,Mexico,37,-5,-5
+Argentina,C,17,2,5,5,4,Suadi Arabia,5,N/A,N/A,Mexico,21,1,0,Poland,37,3,1
+Mexico,C,16,0,0,0,9,Poland,6,-4,-13,Argentina,22,1,12,Saudi Arabia,38,-2,-3
+Poland,C,8,0,0,2,26,Mexico,6,N/A,N/A,Saudi Arabia,22,N/A,N/A,Argentina,38,2,3
+France,D,15,2,3,6,3,Italy,7,1,6,Denmark,23,-1,-1,Tunisia,39,4,9
+Italy,D,18,4,6,7,6,France,7,-1,-6,Tunisia,23,-1,-3,Denmark,39,N/A,N/A
+Denmark,D,5,0,0,0,11,Tunisia,8,N/A,N/A,France,24,1,3,Italy,40,-4,-9
+Tunisia,D,5,0,0,0,35,Denmark,8,-1,-2,Italy,24,0,0,France,40,N/A,N/A
+Spain,E,15,1,1,2,7,Nigeria,9,12,31,Germany,25,N/A,N/A,Japan,41,5,7
+Nigeria,E,6,0,0,0,30,Spain,9,N/A,N/A,Japan,25,-1,-3,Germany,41,-3,-1
+Germany,E,19,4,8,13,12,Japan,10,4,13,Spain,26,2,10,Nigeria,42,1,0
+Japan,E,6,0,0,0,23,Germany,10,-2,-2,Nigeria,26,-2,-3,Spain,42,-2,-3
+Morocco,F,5,0,0,0,40,Croatia,11,-2,-2,Belgium,27,1,2,Canada,43,-5,-7
+Croatia,F,5,0,1,1,16,Morocco,11,N/A,N/A,Canada,27,-1,0,Belgium,43,3,9
+Belgium,F,13,0,0,1,2,Canada,12,N/A,N/A,Morocco,28,0,0,Croatia,44,-17,-70
+Canada,F,1,0,0,0,38,Belgium,12,N/A,N/A,Croatia,28,N/A,N/A,Morocco,44,N/A,N/A
+Cameroon,G,7,0,0,0,37,Switzerland,13,N/A,N/A,Serbia,29,1,3,Brazil,45,-3,-9
+Brazil,G,21,5,7,11,1,Serbia,13,1,2,Switzerland,29,8,19,Cameroon,45,1,1
+Switzerland,G,11,0,0,0,14,Cameroon,14,-1,-2,Brazil,30,N/A,N/A,Serbia,46,0,1
+Serbia,G,12,0,0,2,25,Brazil,14,N/A,N/A,Cameroon,30,N/A,N/A,Switzerland,46,-1,-1
+Uruguay,H,13,2,2,5,13,Korea Republic,15,1,2,Portugal,31,-1,-1,Ghana,47,0,0
+Portugal,H,7,0,0,2,8,Ghana,15,-12,-31,Uruguay,31,-1,-2,Korea Republic,47,2,5
+Korea Republic,H,10,0,0,1,29,Uraguay,16,-1,-2,Ghana,32,-1,-10,Portugal,48,-1,0
+Ghana,H,3,0,0,0,60,Portugal,16,2,2,Korea Republic,32,N/A,N/A,Uruguay,48,0,0
